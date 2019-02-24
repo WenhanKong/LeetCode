@@ -1,4 +1,8 @@
 # LeetCode
 Personal experience on LeetCode Medium or Hard.
 
-807. Max Increase to Keep City Skyline
++ [Meidum 807. Max Increase to Keep City Skyline](https://github.com/WenhanKong/LeetCode/blob/master/Meidum%20807%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
+
++ [Medium 654. Maximum Binary Tree](https://github.com/WenhanKong/LeetCode/blob/master/Medium%20654%20Maximum%20Binary%20Tree.md)
+
++ [Medium(Easy) 701 Insert into a Binary Search Tree.md](https://github.com/WenhanKong/LeetCode/tree/master)
