@@ -1,4 +1,4 @@
-# Medium(?Easy) 701
+# [Medium(?Easy) 701](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/)
 
 ## Problem:
 Given the root node of a binary search tree (BST) and a value to be inserted into the tree, insert the value into the BST.  
