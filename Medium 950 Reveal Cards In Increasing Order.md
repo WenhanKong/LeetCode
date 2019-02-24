@@ -63,7 +63,7 @@ public:
             if (skip) ++lp;
             else {
                 res[*lp] = deck[i++]; //dereference the iterator to get the value it points to
-                l.erase(lp++);
+                l.erase(lp++); // erase(iterator) delete element iterator points to
             }
         }
         return res;
