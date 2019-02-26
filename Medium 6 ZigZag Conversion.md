@@ -1,4 +1,4 @@
-# Medium 6. ZigZag Conversion
+# [Medium 6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/)
 
 ## Problem:
 Input: s = "PAYPALISHIRING", numRows = 4  
