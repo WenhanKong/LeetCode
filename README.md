@@ -10,3 +10,5 @@ Personal experience on LeetCode Medium or Hard.
 + [Medium 950. Reveal Cards In Increasing Order.md](https://github.com/WenhanKong/LeetCode/blob/master/Medium%20950%20Reveal%20Cards%20In%20Increasing%20Order.md)
 
 + [Medium 5. Longest Palindromic Substring](https://github.com/WenhanKong/LeetCode/blob/master/Medium%205%20Longest%20Palindromic%20Substring.md)
+
++ [Medium 6. ZigZag Conversion](https://github.com/WenhanKong/LeetCode/blob/master/Medium%206%20ZigZag%20Conversion.md)
